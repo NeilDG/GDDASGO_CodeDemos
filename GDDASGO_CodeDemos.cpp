@@ -11,7 +11,7 @@
 using namespace std;
 
 // PROBLEM 1
-void problem_p1(vector<string> input) {
+/*void problem_p1(vector<string> input) {
 	int i, j, nFlag, nTestcases = 0, nStringLenght = 0;
 	string strHolder;
 	char cHolder;
@@ -165,11 +165,11 @@ void problem_p3(string input) {
 	}
 	else
 		cout << "THERE IS NO INPUT!";
-}
+}*/
 
 
 
-int main() {
+/*int main() {
 	//this is an example of how your instructor will test your code by giving at least 3 test cases
 	vector<string> strInput;
 	strInput.push_back("3");
@@ -217,5 +217,5 @@ int main() {
 	cout << "#3 - Test 3 \n\n";
 	problem_p3(strInput[2]);
 	cout << "\n";
-}
+}*/
 
