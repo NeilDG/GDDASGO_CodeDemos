@@ -18,5 +18,13 @@
     <ClCompile Include="GDDASGO_CodeDemos.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GDDASGO_P4Tester.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GDDASGO_P4Tester.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

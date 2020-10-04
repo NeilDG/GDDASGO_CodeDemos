@@ -152,6 +152,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GDDASGO_CodeDemos.cpp" />
+    <ClCompile Include="GDDASGO_P4Tester.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GDDASGO_P4Tester.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
